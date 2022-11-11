@@ -8,6 +8,9 @@
   background-size: cover;
   color: #fff;
   height: 1200px;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 #wrapper h1 {
     padding-top: 32px;
